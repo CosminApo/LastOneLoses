@@ -1,0 +1,42 @@
+if he starts
+with 1:	
+	remove 2
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+	then
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+
+with 2:
+	remove 1
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+	then
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+	
+
+with 3: worst case
+	remove 3
+	remove 3 if he removes 2
+	remove 2 if he removes 3
+	remove 3 if he removes 1
+	you lose.
+if you start: 
+	remove 3
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+	then
+	remove 3 if he removes 1
+	remove 2 if he removes 2
+	remove 1 if he removes 3
+gg ez
+	
+	
+	
+
